@@ -1,3 +1,3 @@
-# Crowdfunding
+# Crowdfunding project
 
-Ghita, Zacky and Mehdi embark on an adventure through the forests of computerland.
+Ghita, Zack and Mehdi take open source Kickstarter data, generate embeddings for text data and combine with numerical and categorical features to generate models to predict the success and failure of crowdfunding projects. Latest version of Pandas needed to run this notebook, as well as access to Google's word2vec model. This is in this github repository, along with the neccessary data. The notebook should take about 10 minutes to run completely. It includes several pre-processing steps, feature engineering and word embedding, and EDA. It also trains several models, which we have experimented with and tuned to maximize accuracy. These are compared at the end of the notebook.
